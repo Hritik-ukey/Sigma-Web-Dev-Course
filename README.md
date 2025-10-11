@@ -7,7 +7,7 @@ If you've been itching to dive into the world of web development but feel lost i
 ## Who Can Benefit?
 
 ### This course is a perfect fit for:
-
+    
 1. Beginners eager to start their web development journey
 2. Intermediate developers looking to refine their skills
 3. Individuals who prefer learning in Hindi
